@@ -1,0 +1,16 @@
+Method,  Description
+bfill,   Backward fill
+count,   Count of values
+ffill,   Forward fill
+first,   First valid data value
+last,    Last valid data value
+max,     Maximum data value
+mean,    Mean of values in time range
+median,  Median of values in time range
+min,     Minimum data value
+nunique, Number of unique values
+ohlc,    Opening value, highest value, lowest value, closing value
+pad,     Same as forward fill
+std,     Standard deviation of values
+sum,     Sum of values
+var,     Variance of values
